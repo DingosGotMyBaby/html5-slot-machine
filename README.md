@@ -23,7 +23,7 @@ Built using the _Web Animations API_.
 
 ## Configuration
 
-For configuration options see `config` object in [index.js](/js/index.js)
+For configuration options see `config` object in [index.js](/src/js/index.js)
 
 | Property      | Description                                                                                                                            | Default   |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------- |
