@@ -1,13 +1,11 @@
 # HTML5 Slot Machine
 
-![Build and Deploy Status](https://github.com/dingosgotmybaby/html5-slot-machine/actions/workflows/deploy.yml/badge.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+![Build and Deploy Status](https://github.com/dingosgotmybaby/html5-slot-machine/actions/workflows/deploy.yml/badge.svg)
 
 This is a modern proof of concept casino slot machine game, built using only vanilla HTML, CSS and JavaScript.
 No Flash or Frameworks required. Allowing for an amazing low bundle size and blazing fast performance.
 
 Built using the _Web Animations API_.
-
-**[Live Demo](https://johakr.github.io/html5-slot-machine/)**
 
 ## Features
 
