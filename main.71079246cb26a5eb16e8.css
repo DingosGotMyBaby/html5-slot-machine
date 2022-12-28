@@ -2,7 +2,7 @@ body {
   width: 100vw;
   height: 100vh;
   padding: 1rem;
-  background-image: url(dbdfdc8f51630ddfbb3f.jpg);
+  background-image: url(5ad5884f6456d5cc1dc5.jpeg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -13,7 +13,7 @@ body {
 
 @media only screen and (max-width: 1200px) {
   body {
-    background-image: url(01e008fb4d3f3df23e7d.jpg);
+    background-image: url(5ad5884f6456d5cc1dc5.jpeg);
   }
 }
 
@@ -65,9 +65,10 @@ input[type="checkbox"] {
 }
 
 #jackpot {
-  color: #d5ad6d;
+  color: #ffffff;
   font-size: 40px;
   text-align: center;
+  -webkit-text-stroke: 2px black;
 }
 
 #slot.inverted .reel {
