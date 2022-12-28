@@ -31,4 +31,4 @@ For configuration options see `config` object in [index.js](/src/js/index.js)
 
 ## Credits
 
-Icons are created by [KPD Media](https://dribbble.com/shots/3517520-Star-Wars) and can be used for private and commercial purposes with no attribution required ([check license here](https://iconstore.co/icons/10-star-wars-icons/)).
+Icons are from [Game-icons.net](https://game-icons.net/) and are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
