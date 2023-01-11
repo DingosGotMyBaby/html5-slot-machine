@@ -29,6 +29,7 @@ export default class Symbol {
       "rat",
       "ringmaster",
       "shambling-zombie",
+      "yom-flag",
     ];
   }
 
