@@ -6,19 +6,19 @@ export default class Slot {
     Symbol.preload();
 
     this.currentSymbols = [
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
     ];
 
     this.nextSymbols = [
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
-      ["rabbit", "rabbit", "rabbit"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
+      ["yom-flag", "yom-flag", "yom-flag"],
     ];
 
     this.container = domElement;
